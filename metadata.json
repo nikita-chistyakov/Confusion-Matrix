@@ -1,0 +1,5 @@
+{
+  "name": "Confusion Matrix",
+  "description": "An interactive visual guide to understanding classification metrics : precision, recall, and other classification metrics.",
+  "requestFramePermissions": []
+}
