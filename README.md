@@ -4,7 +4,7 @@ An interactive, visual guide designed to help developers and data scientists und
 
 This React application visualizes how metrics like **Precision**, **Recall**, and **F1 Score** behave under different scenarios (e.g., imbalanced datasets like Spam Filters or Disease Screening).
 
-![App Screenshot](https://via.placeholder.com/1200x600/0f1117/e2e8f0?text=Classification+Metrics+Demystified)
+![App Screenshot](https://ai.studio/apps/drive/12oGcBY49I8nEkbIK8X43Wa4Ldz7C9eLl?fullscreenApplet=true)
 
 ## 🚀 Features
 
