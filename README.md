@@ -1,15 +1,12 @@
 # Classification Metrics Demystified
 
-[**Test out the app here!**](https://confusion-matrix-1092934500596.europe-west2.run.app
-)
+[**Test out the app here!**](https://ai.studio/apps/drive/12oGcBY49I8nEkbIK8X43Wa4Ldz7C9eLl?fullscreenApplet=true)
 
 An interactive, visual guide designed to help developers and data scientists understand classification metrics through the lens of a Confusion Matrix. 
 
 This React application visualizes how metrics like **Precision**, **Recall**, and **F1 Score** behave under different scenarios (e.g., imbalanced datasets like Spam Filters or Disease Screening).
 
-App Screenshot
-<img width="484" height="320" alt="Screen Shot 2026-05-08 at 3 42 21 PM" src="https://github.com/user-attachments/assets/726144c1-1fc6-40e2-84fc-560ffe5eb381" />
-
+![App Screenshot](https://via.placeholder.com/1200x600/0f1117/e2e8f0?text=Classification+Metrics+Demystified)
 
 ## 🚀 Features
 
