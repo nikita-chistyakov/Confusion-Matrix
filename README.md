@@ -1,6 +1,6 @@
 # Classification Metrics Demystified
 
-[**Test out the app here!**](https://confusion-matrix-1092934500596.europe-west2.run.app!
+[**Test out the app here!**](https://confusion-matrix-1092934500596.europe-west2.run.app
 )
 
 An interactive, visual guide designed to help developers and data scientists understand classification metrics through the lens of a Confusion Matrix. 
